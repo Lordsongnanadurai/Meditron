@@ -1,0 +1,12 @@
+﻿haystack==0.42
+haystack-ai==2.0.0b5
+haystack-bm25==1.0.2
+huggingface-hub==0.19.3
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.46
+langchain-text-splitters==0.0.1
+pydub==0.25
+pymed==0.8.9
+streamlit==1.23.1
+transformers==4.36.2
