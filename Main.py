@@ -1,4 +1,4 @@
-huggingface_token = "hf_AmwHEORkXCzuCSJDxVJVcQNuQRRmO"
+huggingface_token = "token"
 
 from pymed import PubMed
 from typing import List
